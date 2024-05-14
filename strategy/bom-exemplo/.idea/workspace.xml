@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de81c4cf-0bcd-49bf-bb0a-3e18d77401e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bom-exemplo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/Orcamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/imposto/IcmsImplementacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/imposto/ImpostoInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/imposto/IssImplementacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/ImpostoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mau-exemplo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mau-exemplo/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/imposto/IcmsImplementacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/imposto/IcmsStrategyImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/imposto/ImpostoInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/imposto/ImpostoStrategyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/imposto/IssImplementacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/imposto/IssStrategyImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/ImpostoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/ImpostoService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +36,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vitor/OneDrive/Documentos/GitHub/design-patterns/strategy/bom-exemplo/src&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/vitor/OneDrive/Documentos/GitHub/design-patterns/strategy",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vitor\OneDrive\Documentos\GitHub\design-patterns\strategy\bom-exemplo\src" />

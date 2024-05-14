@@ -5,7 +5,7 @@ import domain.Orcamento;
 
 import java.math.BigDecimal;
 
-public interface ImpostoInterface {
+public interface ImpostoStrategyInterface {
     public BigDecimal calcular(Orcamento orcamento);
 
 }

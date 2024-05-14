@@ -1,5 +1,5 @@
 import domain.Orcamento;
-import imposto.IcmsImplementacao;
+import imposto.IcmsStrategyImp;
 import service.ImpostoService;
 
 import java.math.BigDecimal;
@@ -10,6 +10,6 @@ public class main {
         Orcamento orcamento = new Orcamento();
         orcamento.setValor(new BigDecimal("100"));
         ImpostoService impostoService = new ImpostoService();
-        System.out.println(impostoService.calcular(orcamento, new IcmsImplementacao()));
+        System.out.println(impostoService.calcular(orcamento, new IcmsStrategyImp()));
     }
 }
